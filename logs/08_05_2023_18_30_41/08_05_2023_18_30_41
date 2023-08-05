@@ -1,0 +1,8 @@
+[ 2023-08-05 18:30:42,750 ] 26 root - INFO - Entered the data ingestion method or compenent
+[ 2023-08-05 18:30:42,755 ] 29 root - INFO - Read the dataset as dataframe
+[ 2023-08-05 18:30:42,760 ] 34 root - INFO - Train test split initiated
+[ 2023-08-05 18:30:42,766 ] 40 root - INFO - Ingestion of the data is completed
+[ 2023-08-05 18:30:42,786 ] 83 root - INFO - Reading train and test data completed
+[ 2023-08-05 18:30:42,786 ] 60 root - INFO - Numerical columns standard scaling completed
+[ 2023-08-05 18:30:42,786 ] 61 root - INFO - Categorical columns encodingcompleted
+[ 2023-08-05 18:30:42,812 ] 98 root - INFO - Applying preprocessing object on train and test data frames
